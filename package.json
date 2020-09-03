@@ -1,0 +1,14 @@
+{
+  "name": "redfinhw",
+  "version": "1.0.0",
+  "description": "Homework for Redfin",
+  "main": "FoodTruckFinder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AlexG",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
